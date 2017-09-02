@@ -1,0 +1,4 @@
+<%@ page contentType = "text/html; charset=euc-kr" %>
+<hr>
+<br>
+자동으로 하단부에 include됨
